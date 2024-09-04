@@ -1,6 +1,7 @@
 ## 使用設備
-  * TTGO T-Display (ESP32) 購買連結(https://www.jmaker.com.tw/products/ttgo-t-display)
-  * GY-512 (MPU-6050)  購買連結(https://jin-hua.com.tw/webc/html/product/show.aspx?num=29981)
+|  | <div style="text-align:center; vertical-align:bottom;">功能描述</div>|
+* TTGO T-Display (ESP32) |購買連結(https://www.jmaker.com.tw/products/ttgo-t-display)
+* GY-512 (MPU-6050)  |購買連結(https://jin-hua.com.tw/webc/html/product/show.aspx?num=29981)
 
 |  | <div style="text-align:center; vertical-align:bottom;">功能描述</div>|
 | ------ | -------- |
